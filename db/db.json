@@ -1,0 +1,120 @@
+{
+  "user": [
+    {
+      "email": "rohit@gmail.com",
+      "name": "Rohit Gupta",
+      "password": "rohit@123",
+      "id": 1
+    },
+    {
+      "email": "rk2gmail.comm",
+      "password": "kk@123",
+      "name": "kk",
+      "id": 2
+    },
+    {
+      "email": "kk@gmail.com",
+      "password": "kk@123",
+      "name": "kk",
+      "id": 3
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 4
+    },
+    {
+      "email": "kashift@gmail.com",
+      "password": "kashift@123",
+      "name": "Kashif",
+      "id": 5
+    },
+    {
+      "email": "saquib@gmail.com",
+      "password": "saquib@123",
+      "name": "Saquib",
+      "id": 6
+    },
+    {
+      "email": "shivam@gmail.com",
+      "password": "shivam@123",
+      "name": "shivam",
+      "id": 7
+    },
+    {
+      "email": "shivi@gmail.com",
+      "password": "shivi@123",
+      "name": "shivi",
+      "id": 8
+    },
+    {
+      "email": "dev@gmail.com",
+      "password": "dev@123",
+      "name": "dev",
+      "id": 9
+    },
+    {
+      "email": "rohit@gmail.com",
+      "password": "rohit@123",
+      "name": "rohit",
+      "id": 10
+    },
+    {
+      "email": "rohitg@gmail.com",
+      "password": "rohitg@123",
+      "name": "rohit",
+      "id": 11
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": "7565488254",
+      "address": "Greater Noida"
+    },
+    {
+      "id": 2,
+      "name": "Dominoz",
+      "contact": "8565488254",
+      "address": "Alpha 2"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": "9565488254",
+      "address": "Alpha 1"
+    },
+    {
+      "name": "Baristo Res.",
+      "contact": "7765488254",
+      "address": "Noida",
+      "id": 4
+    },
+    {
+      "name": "Starbucks",
+      "address": "greater noida",
+      "contact": "7985462577",
+      "id": 5
+    },
+    {
+      "name": "KFC res.",
+      "address": "Delta 1",
+      "contact": "9565488254",
+      "id": 7
+    },
+    {
+      "name": "Shri bakers",
+      "address": "Noida phase 2",
+      "contact": "8574965478",
+      "id": 8
+    },
+    {
+      "name": "KFC3",
+      "address": "delhi 3",
+      "contact": "8754265420",
+      "id": 9
+    }
+  ]
+}
