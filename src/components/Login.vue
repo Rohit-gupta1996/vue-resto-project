@@ -1,8 +1,8 @@
 <template>
-  <img class="logo" alt="Vue logo" src="../assets/resto-logo.png" />
+  <img class="logo" alt="Vue logo" src="../assets/team-logo.png" />
   <h2>Login</h2>
   <div class="login">
-    <input type="text" v-model="email" placeholder="Enter Email" />
+    <input type="text" v-model="email" placeholder="Enter Employee Email" />
     <input type="password" v-model="password" placeholder="Enter Password" />
     <button v-on:click="login">Login</button>
     <p>

@@ -1,10 +1,9 @@
 import Home from "./components/Home.vue";
 import SignUp from "./components/SignUp.vue";
-
 import { createRouter, createWebHistory } from "vue-router";
 import Login from './components/Login.vue'
-import Add from './components/Add.vue'
-import Update from './components/Update.vue'
+
+// import Index from './src/index.js'
 
 const routes = [
   {
@@ -22,16 +21,12 @@ const routes = [
     component: Login,
     path: "/login",
   },
-  {
-    name: "Add",
-    component: Add,
-    path: "/add",
-  },
-  {
-    name: "Update",
-    component: Update,
-    path: "/update/:id",
-  },
+  
+  // {
+  //   name: "Index",
+  //   component: Index,
+  //   path: "/Index",
+  // },
 ];
 
 const router = createRouter({
